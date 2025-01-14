@@ -16,3 +16,25 @@ my-app
     ├── logo.svg
     └── serviceWorker.js
     └── setupTests.js
+project-root/
+├── node_modules/
+├── public/
+├── src/
+│   ├── controllers/
+│   │   └── exampleController.js
+│   ├── models/
+│   │   └── exampleModel.js
+│   ├── routes/
+│   │   └── exampleRoutes.js
+│   ├── middleware/
+│   │   └── exampleMiddleware.js
+│   ├── config/
+│   │   └── dbConfig.js
+│   ├── utils/
+│   │   └── exampleUtil.js
+│   ├── app.js
+│   └── server.js
+├── .env
+├── .gitignore
+├── package.json
+└── README.md
